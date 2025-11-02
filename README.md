@@ -2,7 +2,7 @@
 Front-End-Store it's a static website with a responsive design using only HTML and CSS and no frameworks.
 
 Tienda:
-![Screenshot_2021-01-22 FrontEnd Store](https://user-images.githubusercontent.com/46696166/105619186-0c2a0700-5da5-11eb-9bfd-a58c17e1a7e0.jpg)
+![Screenshot_2021-01-22 FrontEnd Store](<img width="2936" height="7014" alt="Image" src="https://github.com/user-attachments/assets/4f00fbd8-674d-4b72-b8bf-4922418aba6e" />)
 
 Nosotros:
 ![Screenshot_2021-01-22 FrontEnd Store-nosotros](https://user-images.githubusercontent.com/46696166/105619202-24018b00-5da5-11eb-8f3b-e01f045a38fd.png)
