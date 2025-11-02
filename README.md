@@ -1,5 +1,5 @@
 # Front-End-Store
-Front-End-Store it's a static website with a responsive design using only HTML and CSS and no frameworks. This site is hosting in Azure as a Static Web App.
+Front-End-Store it's a static website with a responsive design using only HTML and CSS and no frameworks.
 
 Tienda:
 ![Screenshot_2021-01-22 FrontEnd Store](https://user-images.githubusercontent.com/46696166/105619186-0c2a0700-5da5-11eb-9bfd-a58c17e1a7e0.jpg)
